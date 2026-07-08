@@ -5,6 +5,7 @@
 ---
 
 ## 📢 Latest Updates
+- `2026/07/01`:  **GeoSolver** has been accepted by ECCV 2026. We will release all code and dataset. 🔥🔥🔥
 - `2026/03/30`: We released **GeoSolver** checkpoint [huggingface](https://huggingface.co/minglanga/GeoSolver). 
 - `2026/03/10`: The full version of the paper with the appendix has been uploaded to [ArXiv](https://arxiv.org/abs/2603.09551).
 
